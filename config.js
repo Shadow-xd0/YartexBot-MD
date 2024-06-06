@@ -8,15 +8,15 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
-['524531287294', '✨ YartexBot-MD', true],
-['542215034412'], 
+['595983602447', 'Tobias', true],
+['595982634142'], 
 ['593968263524'],
 ['595976126756'],
 ['573012482597']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +59309090909
+global.botNumberCode = '+595982634142' //Ejemplo: +59309090909
 global.confirmCode = ''
 
 global.suittag = ['5214531287294']
